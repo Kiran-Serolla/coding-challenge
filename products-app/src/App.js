@@ -1,6 +1,6 @@
 
-import './App.css';
-import Products from './components/Products';
+
+import Products from './Components/Products';
 
 function App() {
   return (
